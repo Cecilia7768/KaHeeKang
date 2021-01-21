@@ -1,0 +1,73 @@
+1. 두수를 입력 받아 큰 수가 짝수이면 출력하시오(if문)
+
+2. 세 과목의 성적을 입력 받아 합계와 평균을 구하고 평균이 90이상이면 “A”, 
+80이상이면 “B”, 70 이상이면 “C”, 60 이상이면 “ D”, 60미만이면 “F”를 출력하시오.(if문)
+
+3.1~1000까지의 합을 구하라.단 3의 배수는 제외하고 3의 배수이면서
+  5의 배수는 제외하지 않는 조건으로 구하라.(for문)
+
+4. 정수를 반복하여 입력 받아 입력 받은 정수들의 합계를 구하시오
+(0을 입력 받을 때 까지 계속하여 입력 받게 만들 것)(while문)
+
+5. updown 게임을 완성하시오.
+
+
+#include<iostream>
+using namespace std;
+
+void main()
+{
+
+	//////////1번////////////
+	int A, B;
+
+	cin >> A;
+	cin >> B;
+
+	if (A > B && A % 2 == 0)
+	{
+		cout << A;
+	}
+	else
+		cout << B;	
+
+	/////////2번//////////
+
+	int Kor, Eng, Math;
+	int sum, avr;
+	sum = Kor + Eng + Math; //합계
+	avr = sum / 3; //평균
+
+	if (avr >= 90)
+		cout << "A";
+	else if (avr < 90 && avr >= 80)
+		cout << "B";
+	else if (avr < 80 && avr >= 70)
+		cout << "C";
+	else if (avr < 70 && avr >= 60)
+		cout << "D";
+	else if (avr < 60)
+		cout << "F";
+
+	/////////3번/////////
+	int sumresult;
+	for (int i = 1; i <= 1000; i++)
+	{
+		//3의 배수 제외 , 3 && 5의 배수는 제외x
+		if (i % 3 == 0)
+		{
+			if (i % 5 != 0)
+				sumresult += i;				
+		}
+	}
+
+	/////////4번//////////
+	int tmpnum;
+	int Sumnum;
+
+	while (tmpnum!=0)
+	{
+		cin >> tmpnum;
+		Sumnum += tmpnum;
+	}
+	
