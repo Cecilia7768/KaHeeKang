@@ -1,15 +1,15 @@
-1. µÎ¼ö¸¦ ÀÔ·Â ¹Þ¾Æ Å« ¼ö°¡ Â¦¼öÀÌ¸é Ãâ·ÂÇÏ½Ã¿À(if¹®)
+1. ë‘ìˆ˜ë¥¼ ìž…ë ¥ ë°›ì•„ í° ìˆ˜ê°€ ì§ìˆ˜ì´ë©´ ì¶œë ¥í•˜ì‹œì˜¤(ifë¬¸)
 
-2. ¼¼ °ú¸ñÀÇ ¼ºÀûÀ» ÀÔ·Â ¹Þ¾Æ ÇÕ°è¿Í Æò±ÕÀ» ±¸ÇÏ°í Æò±ÕÀÌ 90ÀÌ»óÀÌ¸é ¡°A¡±, 
-80ÀÌ»óÀÌ¸é ¡°B¡±, 70 ÀÌ»óÀÌ¸é ¡°C¡±, 60 ÀÌ»óÀÌ¸é ¡° D¡±, 60¹Ì¸¸ÀÌ¸é ¡°F¡±¸¦ Ãâ·ÂÇÏ½Ã¿À.(if¹®)
+2. ì„¸ ê³¼ëª©ì˜ ì„±ì ì„ ìž…ë ¥ ë°›ì•„ í•©ê³„ì™€ í‰ê· ì„ êµ¬í•˜ê³  í‰ê· ì´ 90ì´ìƒì´ë©´ â€œAâ€, 
+80ì´ìƒì´ë©´ â€œBâ€, 70 ì´ìƒì´ë©´ â€œCâ€, 60 ì´ìƒì´ë©´ â€œ Dâ€, 60ë¯¸ë§Œì´ë©´ â€œFâ€ë¥¼ ì¶œë ¥í•˜ì‹œì˜¤.(ifë¬¸)
 
-3.1~1000±îÁöÀÇ ÇÕÀ» ±¸ÇÏ¶ó.´Ü 3ÀÇ ¹è¼ö´Â Á¦¿ÜÇÏ°í 3ÀÇ ¹è¼öÀÌ¸é¼­
-  5ÀÇ ¹è¼ö´Â Á¦¿ÜÇÏÁö ¾Ê´Â Á¶°ÇÀ¸·Î ±¸ÇÏ¶ó.(for¹®)
+3.1~1000ê¹Œì§€ì˜ í•©ì„ êµ¬í•˜ë¼.ë‹¨ 3ì˜ ë°°ìˆ˜ëŠ” ì œì™¸í•˜ê³  3ì˜ ë°°ìˆ˜ì´ë©´ì„œ
+  5ì˜ ë°°ìˆ˜ëŠ” ì œì™¸í•˜ì§€ ì•ŠëŠ” ì¡°ê±´ìœ¼ë¡œ êµ¬í•˜ë¼.(forë¬¸)
 
-4. Á¤¼ö¸¦ ¹Ýº¹ÇÏ¿© ÀÔ·Â ¹Þ¾Æ ÀÔ·Â ¹ÞÀº Á¤¼öµéÀÇ ÇÕ°è¸¦ ±¸ÇÏ½Ã¿À
-(0À» ÀÔ·Â ¹ÞÀ» ¶§ ±îÁö °è¼ÓÇÏ¿© ÀÔ·Â ¹Þ°Ô ¸¸µé °Í)(while¹®)
+4. ì •ìˆ˜ë¥¼ ë°˜ë³µí•˜ì—¬ ìž…ë ¥ ë°›ì•„ ìž…ë ¥ ë°›ì€ ì •ìˆ˜ë“¤ì˜ í•©ê³„ë¥¼ êµ¬í•˜ì‹œì˜¤
+(0ì„ ìž…ë ¥ ë°›ì„ ë•Œ ê¹Œì§€ ê³„ì†í•˜ì—¬ ìž…ë ¥ ë°›ê²Œ ë§Œë“¤ ê²ƒ)(whileë¬¸)
 
-5. updown °ÔÀÓÀ» ¿Ï¼ºÇÏ½Ã¿À.
+5. updown ê²Œìž„ì„ ì™„ì„±í•˜ì‹œì˜¤.
 
 
 #include<iostream>
@@ -17,8 +17,7 @@ using namespace std;
 
 void main()
 {
-
-	//////////1¹ø////////////
+	//////////1ë²ˆ////////////
 	int A, B;
 
 	cin >> A;
@@ -28,15 +27,20 @@ void main()
 	{
 		cout << A;
 	}
-	else
-		cout << B;	
+	else if (B > A && B % 2 == 0)
+	{
+		cout << B;
+	}
 
-	/////////2¹ø//////////
-
-	int Kor, Eng, Math;
+	/////////2ë²ˆ//////////
+	int Kor = 0, Eng= 0, Math=0;
 	int sum, avr;
-	sum = Kor + Eng + Math; //ÇÕ°è
-	avr = sum / 3; //Æò±Õ
+
+	cin >> Kor;
+	cin >> Eng;
+	cin >> Math;
+	sum = Kor + Eng + Math; //í•©ê³„
+	avr = sum / 3; //í‰ê· 
 
 	if (avr >= 90)
 		cout << "A";
@@ -49,25 +53,26 @@ void main()
 	else if (avr < 60)
 		cout << "F";
 
-	/////////3¹ø/////////
-	int sumresult;
+	/////////3ë²ˆ/////////
+	int sumresult = 0;
 	for (int i = 1; i <= 1000; i++)
 	{
-		//3ÀÇ ¹è¼ö Á¦¿Ü , 3 && 5ÀÇ ¹è¼ö´Â Á¦¿Üx
+		//3ì˜ ë°°ìˆ˜ ì œì™¸ , 3 && 5ì˜ ë°°ìˆ˜ëŠ” ì œì™¸x
 		if (i % 3 != 0)
 		{
 			if (i % 5 == 0)
-				sumresult += i;				
+				sumresult += i;
 		}
 	}
 
-	/////////4¹ø//////////
-	int tmpnum;
-	int Sumnum;
+	/////////4ë²ˆ//////////
+	int tmpnum = 0;
+	int Sumnum = 0;
 
-	while (tmpnum!=0)
+	while (1)
 	{
 		cin >> tmpnum;
+		if (tmpnum == 0)
+			break;
 		Sumnum += tmpnum;
 	}
-	
