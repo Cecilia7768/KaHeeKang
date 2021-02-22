@@ -1,0 +1,24 @@
+﻿  Play.cpp
+C:\Users\가희\source\repos\K_RPG\K_RPG\MapDraw.h(19,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\MapDraw.h(19,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(18,72): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(19,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(20,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(21,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(27,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(28,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(29,58): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(30,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(31,58): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(32,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(33,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(43,69): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(43,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(38,6): warning C4101: 'Select' :참조되지 않은 지역 변수입니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(67,69): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(67,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(75,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(83,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(58,6): warning C4101: 'Select' :참조되지 않은 지역 변수입니다.
+C:\Users\가희\source\repos\K_RPG\K_RPG\Play.cpp(102,6): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  K_RPG.vcxproj -> C:\Users\가희\source\repos\K_RPG\Debug\K_RPG.exe

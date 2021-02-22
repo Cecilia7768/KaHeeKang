@@ -1,0 +1,70 @@
+﻿  Play.cpp
+c:\users\a01\downloads\k_rpg (1)\k_rpg\mapdraw.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(34): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(36): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(47): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(58): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(53): warning C4101: 'Select' :참조되지 않은 지역 변수입니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(91): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(97): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(102): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(123): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(129): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(133): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(134): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(138): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(142): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(146): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(156): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(161): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(166): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(132): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(175): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(176): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(180): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(181): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(186): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(187): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(192): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(193): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(198): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(199): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(204): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(205): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(263): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(272): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(279): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(274): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(282): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(243): warning C4101: 'Select' :참조되지 않은 지역 변수입니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(327): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(331): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(336): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(372): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(407): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(382): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(390): warning C4101: 'GetEXP' :참조되지 않은 지역 변수입니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(392): warning C4101: 'HaveWeapon' :참조되지 않은 지역 변수입니다.
+c:\users\a01\downloads\k_rpg (1)\k_rpg\play.cpp(386): warning C4101: 'Life' :참조되지 않은 지역 변수입니다.
+  K_RPG.vcxproj -> C:\Users\A01\Downloads\K_RPG (1)\x64\Debug\K_RPG.exe
