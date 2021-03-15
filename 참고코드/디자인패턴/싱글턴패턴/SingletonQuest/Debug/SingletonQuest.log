@@ -1,0 +1,5 @@
+﻿  IntManager.cpp
+  main.cpp
+f:\강의자료\자료구조와알고리즘\강의용코드\chapter23\singletonquest\main.cpp(5): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  SingletonQuest.vcxproj -> F:\강의자료\자료구조와알고리즘\강의용코드\Chapter23\Debug\SingletonQuest.exe
